@@ -1,0 +1,8 @@
+main {
+    opacity: 1;
+    transition: 0.5s ease-out;
+  }
+.is-active {
+    opacity: 0;
+    pointer-events: all;
+  }

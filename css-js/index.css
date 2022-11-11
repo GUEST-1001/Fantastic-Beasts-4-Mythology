@@ -1,0 +1,41 @@
+@media (min-width: 1400px) {
+    /*xxl*/
+    #foot-img {
+        bottom: -25%;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399px) {
+    /*xl*/
+    #foot-img {
+        bottom: -30%;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    /*lg*/
+    #foot-img {
+        bottom: -35%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    /*md*/
+    #foot-img {
+        bottom: -42%;
+    }
+}
+
+@media (max-width: 767px) {
+    /*sm*/
+    #foot-img {
+        bottom: -65%;
+    }
+}
+
+body {
+    background-color:#5e4330;
+}
+h1 {
+    font-size: 70px;
+  }

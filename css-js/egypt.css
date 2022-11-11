@@ -1,0 +1,37 @@
+body {
+    background-color:#5e4330;
+    background-image: url(../img/Full_CG/Egypt\ Art.png);
+    background-size: 100%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+#B-btn {
+    font-size: 80px;
+    color: #C5A414;
+    transition: all 0.2s;
+    position: absolute;
+    top: 500px;
+    left: 80px;
+    transform: translate(-50%, -50%);
+    width: auto;
+}
+#B-btn:not(:hover) {
+    font-size:55px;
+    color: #F8E18A;
+}
+
+#N-btn {
+    font-size: 80px;
+    color: #C5A414;
+    transition: all 0.2s;
+    position: absolute;
+    top: 500px;
+    left: 96%;
+    transform: translate(-50%, -50%);
+    width: auto;
+}
+#N-btn:not(:hover) {
+    font-size:55px;
+    color: #F8E18A;
+  }
